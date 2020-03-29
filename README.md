@@ -1,5 +1,7 @@
 # Be The Hero
 
+<img src = "img/beTheHero.png">
+
 <h2>🔎 Tecnologias Utilizadas<h2>
 <ul>
   <a href="https://pt-br.reactjs.org/"><li>React</li></a>
